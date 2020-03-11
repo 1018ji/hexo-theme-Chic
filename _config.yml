@@ -1,22 +1,22 @@
 # Header
-navname: Bentham's Blog
+navname: MineVision
 
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  # Categories: /category
+  # Tags: /tag
+  # About: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Carl
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: Action is the foundational key to all **success**.
+avatar: /image/img.jpeg
 
 # main menu navigation
 ## links key words should not be changed.
@@ -33,7 +33,7 @@ links:
 #  Gallary:
 #  RSS:
 #  AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+#  ZhiHu: https://www.zhihu.com/people/sirice
 #  LinkedIn:
 #  FaceBook:
 #  Twitter:
@@ -43,13 +43,13 @@ links:
 #  Sketch:
 #  Gitlab:
 #  Dribble:
-  Instagram:
-  Reddit:
+#  Instagram:
+#  Reddit:
 #  YouTube:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/1018ji
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -63,7 +63,7 @@ post_author_enable: true
 post_date_enable: true
 post_category_enable: true
 ## Post copyright
-post_copyright_enable: true
+post_copyright_enable: false
 
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
@@ -81,8 +81,8 @@ page_title_enable: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMMM D, YYYY
-time_format: H:mm:ss
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
 
 # stylesheets loaded in the <head>
 stylesheets:
