@@ -23,33 +23,12 @@ avatar: /image/img.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Read: /archives
-#  Category:
-#  Tags: 
-#  Link:
-#  Resume:
-#  Publish:
-#  Trophy:
-#  Gallary:
-#  RSS:
-#  AliPay:
-#  ZhiHu: https://www.zhihu.com/people/sirice
-#  LinkedIn:
-#  FaceBook:
-#  Twitter:
-#  Skype:
-#  CodeSandBox:
-#  CodePen:
-#  Sketch:
-#  Gitlab:
-#  Dribble:
-#  Instagram:
-#  Reddit:
-#  YouTube:
-#  QQ:
-#  Weibo:
-#  WeChat:
-  Github: https://github.com/1018ji
+  read: /archives
+  github: https://github.com/1018ji
+  dns: https://dns.7lab.cn
+  web: https://frp.7lab.cn
+  paste: https://paste.7lab.cn
+  jihuo-regular: http://kms.7lab.cn
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
